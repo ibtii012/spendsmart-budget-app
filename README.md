@@ -55,9 +55,11 @@ The interface includes currency options such as CHF, EUR, USD, and GBP, alongsid
 
 Developed as part of the Computer Science for Data Scientists module at HSLU.
 
-## Application Screenshots
+## Demo Video
 
-Screenshots demonstrating the application's main interface, budget overview, transaction list, and transaction details will be added to this repository.
+Watch the SpendSmart demo to see the application's main features, including monthly budget management, spending overview, currency options, transaction browsing, and category filtering.
+
+[**Watch the SpendSmart demo video**](SpendSmart_Demo.mp4)
 
 ## Notes
 
